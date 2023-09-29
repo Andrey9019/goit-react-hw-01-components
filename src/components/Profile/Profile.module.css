@@ -8,6 +8,7 @@
   box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
   color: #b3b8cd;
   max-width: 100%;
+  margin-bottom: 40px;
 }
 
 .profile:hover {

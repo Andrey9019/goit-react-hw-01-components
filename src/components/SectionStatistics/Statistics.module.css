@@ -1,0 +1,39 @@
+.statistics {
+  background: linear-gradient(90deg, #8989f8, #ffffaa);
+  border-radius: 5px;
+  box-shadow: 0px 10px 20px -10px rgba(0, 0, 0, 0.75);
+  padding: 20px;
+  text-align: center;
+}
+
+.title {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.staList {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.item {
+  text-align: center;
+  padding: 0px 5px 0px 5px;
+  background-color: white;
+  border-radius: 5px;
+  flex-grow: 1;
+}
+
+.label {
+  font-size: 16px;
+  color: black;
+  font-weight: bold;
+}
+
+.percentage {
+  font-size: 18px;
+  color: black;
+}
